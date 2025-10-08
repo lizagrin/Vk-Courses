@@ -205,3 +205,6 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+/MultiModal/Homeworks/hw-1/data_art_hw1/
+/MultiModal/Homeworks/hw-1/.gradio/
+/1.ipynb
